@@ -7,6 +7,7 @@
  * Description:  Function used to convert a float number into two integers,
  * consisting in the Integer part of the float and the Fraction part (decimal part).
  * The main application is to print decimal numbers as char type, for example, in a LCD display.
+ * Based on example provided by TI: humidity_sht21.c - SensorLib the SHT21 and SensHub BoosterPack
  *
  * Function can be called in main function:
  *
